@@ -4,8 +4,6 @@ import './index.css';
 import App from './App';
 import './index.css';
 
-console.log('running');
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
