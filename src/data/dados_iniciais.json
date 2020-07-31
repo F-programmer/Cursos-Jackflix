@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Programing",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Conceitos de programação",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -44,46 +44,50 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "GAMES!",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Desenvolvimento de jogos",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Flappy Bird em javascript",
+          "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&t=1070s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Camera Move",
+          "url": "https://www.youtube.com/watch?v=7Nwr8xXfnX8https://www.youtube.com/watch?v=7Nwr8xXfnX8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Bolinha Rolante - javascript",
+          "url": "https://www.youtube.com/watch?v=z3r8up9cz3w&t=64s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Desenvolvimento de Games em javascript",
+          "url": "https://www.youtube.com/watch?v=z76s9vNjXOM"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Conceitos báscios desenvolvimento de jogos",
+          "url": "https://www.youtube.com/watch?v=viYePz3WhbA"
+        },
+        {
+          "titulo": "Jogo multiplayer",
+          "url": "https://www.youtube.com/watch?v=0sTfIZvjYJk"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Se sentindo inspirado?",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Para dar um break;",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Bolo Torre de PiSa",
+          "url": "https://www.youtube.com/watch?v=sPTvR-HUDsM"
         },
         {
           "titulo": "O que é Data Science?",

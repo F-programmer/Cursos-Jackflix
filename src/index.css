@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 :root {
@@ -25,6 +25,6 @@ a {
   color: inherit;
 } 
 h3{
-  font-family: 'Press Start 2P';
+  font-family: 'Ubuntu';
   font-size: 25px;
 }
