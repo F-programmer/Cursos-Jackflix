@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', Arial;
 }
 
 :root {
@@ -25,6 +25,12 @@ a {
   color: inherit;
 } 
 h3{
-  font-family: 'Ubuntu';
+  font-family: 'Ubuntu', Arial;
   font-size: 25px;
+}
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
 }
