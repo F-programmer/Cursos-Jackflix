@@ -18,6 +18,10 @@ const Container = styled.ul`
       font-size: 30px;
     }
   }
+
+  .slick-arrow::before{
+    color: var(--primary);
+  }
   
   .slick-prev {
     left: 0;
@@ -42,11 +46,12 @@ const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
       dots: false,
-      infinite: false,
+      infinite: true,
       speed: 300,
-      centerMode: false,
+      centerMode: true,
       variableWidth: true,
       adaptiveHeight: true,
+      // pagination: true,
     }}
     >
       {children}
@@ -54,4 +59,4 @@ const Slider = ({ children }) => (
   </Container>
 );
 
-export default Slider; 
+export default Slider;

@@ -18,14 +18,21 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
+  z-index: 500;
 
-  transition: opacity .3s;
-  &:hover,
+  transition: .5s;
   &:focus {
     opacity: .5;
   }
   
   &:not(:first-child) {
     margin-left: 20px;
+  }
+  
+  &:hover{
+    margin-left: 30px;
+    margin-right: 30px;
+    transform: scale(1.2);
+    border: 5px double;
   }
 `;

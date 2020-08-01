@@ -166,6 +166,100 @@
           "url": "https://www.youtube.com/watch?v=bgo9dJB_icw"
         }
       ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#735ac2",
+      "link_extra": {
+        "text": "Para ouvir enquanto desenvolve :)",
+        "url": "https://www.youtube.com/playlist?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+      },
+      "videos": [
+        {
+          "titulo": "Believer",
+          "url": "https://youtu.be/7wtfhZwyrcc?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Legends Never Die",
+          "url": "https://youtu.be/eEKfWVvADiQ?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "A Diferent Way",
+          "url": "https://youtu.be/W6jY2Vjcvq4?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Centuries",
+          "url": "https://youtu.be/1NQRYKLfsuc"
+        },
+        {
+          "titulo": "Kimi no na wa",
+          "url": "https://youtu.be/OpPSdKnkffw?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Photograph",
+          "url": "https://youtu.be/5MZJXy9gra0?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Into the Unknown",
+          "url": "https://youtu.be/mhXqKsH3Vr0?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Nightcore - Songs",
+          "url": "https://youtu.be/KsSR3OJQ5RE?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Smooth Criminal",
+          "url": "https://youtu.be/71u2wX89SiA?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Dusk Untill Dawn",
+          "url": "https://youtu.be/p-eS-_olx9M?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Wild Side",
+          "url": "https://youtu.be/UpnDSeHN9Vk?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Yung Luv",
+          "url": "https://youtu.be/4U7OsBuluRs?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Sweater Weather",
+          "url": "https://youtu.be/0kZRiWko4hE?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU&t=4"
+        },
+        {
+          "titulo": "Symphony",
+          "url": "https://youtu.be/PIf9GvWaxQQ?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Walking the Wire",
+          "url": "https://youtu.be/lZZG0utlZ9M?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Phoenix",
+          "url": "https://youtu.be/i1IKnWDecwA?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Closer",
+          "url": "https://youtu.be/r7zTKRonHXM?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Something Just Like This",
+          "url": "https://youtu.be/owTWCbq_nSk?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Messy",
+          "url": "https://youtu.be/OF6k_Qe0yEo?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Infinity",
+          "url": "https://youtu.be/bk7xMvJ_uIo?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        },
+        {
+          "titulo": "Darkside",
+          "url": "https://youtu.be/8N_aay0ddcY?list=PLt3SAzyeZ2BsAZr9rvWXWoiBmAxl-nQiU"
+        }
+      ]
     }
   ]
 }

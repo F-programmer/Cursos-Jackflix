@@ -12,7 +12,8 @@ function Home() {
 				<BannerMain
 					videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
 					url={dadosIniciais.categorias[0].videos[0].url}
-					videoDescription={'O que'}
+					videoDescription={''}
+					idd='banner'
 				></BannerMain>
 				<Carroussel
 					ignoreFirstVideo
@@ -30,9 +31,18 @@ function Home() {
 				<Carroussel
 					category={dadosIniciais.categorias[4]}
 				></Carroussel>
+				<Carroussel
+					category={dadosIniciais.categorias[5]}
+				></Carroussel>
+				<label onClick={Alertar}>Teste</label>
 			</PageDefault>
 		</div>
 	);
 }
 
 export default Home;
+
+function Alertar() {
+  // e.preventDefault();
+  alert('ola');
+}
